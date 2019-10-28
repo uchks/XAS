@@ -12,4 +12,4 @@ itms-services://?action=download-manifest&url=(ENTER MANIFEST RAW LINK)
 
 ## Credits
 
-- [@Ignition](https://twitter.com/Ignition): Used their .Plist to Create a Manifest (Formatting Was Correct)
+- [@TryIgnition](https://twitter.com/TryIgnition): Used their .Plist to Create a Manifest (Formatting Was Correct)
