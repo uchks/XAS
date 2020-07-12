@@ -1,15 +1,12 @@
-# XAS
+<center>
+  <br>
+  <h1 align="center">XAS</h3>
+  <h3 align="center">✔ A Third-Party AppStore Template</h3>
+</center>
 
-A Third-Party AppStore Template (i.e. Ignition, TweakBox, etc.)
-IPAs are stored in the `ipa` folder.
-
-For OTA Link: 
-itms-services://?action=download-manifest&url=(ENTER MANIFEST RAW LINK)
+Upload signed IPAs in the `ipa` folder!<br/>
+For OTA Links: `itms-services://?action=download-manifest&url=(MANIFEST RAW LINK)`<br/>
 
 ## TODO
-- [ ] Create a PHP System Like @Ignition
+- [ ] Create a PHP System
 - [ ] Make a write-up on IPA Signing (for newbies)
-
-## Credits
-
-- [@TryIgnition](https://twitter.com/TryIgnition): Used their .Plist to Create a Manifest (Formatting Was Correct)
