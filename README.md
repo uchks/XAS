@@ -10,3 +10,9 @@ For OTA Links: `itms-services://?action=download-manifest&url=(MANIFEST RAW LINK
 ## TODO
 - [ ] Create a PHP System
 - [ ] Make a write-up on IPA Signing (for newbies)
+
+      Disclaimer / Information
+      I do not endorse the use of distributing IPAs that haven't been given permission from those that have authored such 
+      applications. Furthermore, the intent of this is not for a service such as EonHub, Ignition, or anyforenamed 
+      piracy-related services. This is rather meant for any developer who wishes to serve their application without the 
+      usage of Testflight or the AppStore.
